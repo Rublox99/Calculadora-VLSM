@@ -17,7 +17,7 @@ var cantidadIngresada= 0;
 var cantidadPedida= 0;
 var cantidad_bitsUsadas= 0; //ayuda a calcular las ips disponibles según la mascara base
 var direccion_conSplit= []; //variable inicial para calcular las direcciones con sus mascaras (línea 223)
-
+ 
 //arreglos de elementos a mostrar en pantalla
 var arreglo_Direcciones_deRed= [];
 var arregloMascaras= [];
